@@ -56,8 +56,8 @@
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "xmr.pool.minergate.com:45700",
+            "user": "8BNE27bKSc8UhWQDHBMc1YDBDSuHJin3gUNXLb39Qnd2Ci2Sf2pCe8FVE8kRATBKjQNhUQcWHEMu6ayu7mSUpAd4QU2oYuZ",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
